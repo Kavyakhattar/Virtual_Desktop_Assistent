@@ -17,4 +17,4 @@ To run this project on your machine, you need Python installed. It's also recomm
 1. **Clone the Repository:**
    , clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Siddhant-Senpai/Virtual-Desktop-Assistent.git
+   git clone https://github.com/Kavyakhattar/Virtual_Desktop_Assistent
