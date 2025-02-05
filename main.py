@@ -22,7 +22,7 @@ def processCommand(c):
         # This command will open the Groove Music (Media Player)
         subprocess.Popen(["start", "mswindowsmusic:"], shell=True)
     elif "open my linkedin profile" in c.lower():
-        webbrowser.open("https://www.linkedin.com/in/siddhant-rana-7a942a34b/")
+        webbrowser.open("https://www.linkedin.com/in/kavya-khattar-50438034b/")
 
 #rename file system
 def rename_file(command):
